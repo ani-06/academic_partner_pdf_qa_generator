@@ -1,0 +1,7 @@
+langchain
+tiktoken
+ollama
+streamlit
+chromadb
+sentence-transformers
+PyPDF2
